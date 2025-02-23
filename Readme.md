@@ -34,9 +34,9 @@ Backend API for ShoppyGlobe application built using Node.js, Express, and MongoD
 
 3. **Environment Variables**: Create a .env file in the root directory and add your MongoDB connection string:
 
-    MongoDB_URL = "<Paste_here : MongoDB Compass or MongoDB Atlas Connection String/URL in double-qoute  like (e.g.,"mongodb://localhost:27017")>"
-    Jwt_secret_key = "<create a plaintext_key in double-qoute like (e.g.,"MySecretKey123")>"
-    PORT = <4-digit number(e.g.,5000)>
+    - MongoDB_URL = "<Paste_here : MongoDB Compass or MongoDB Atlas Connection String/URL in double-qoute  like (e.g.,"mongodb://localhost:27017")>"
+    - Jwt_secret_key = "<create a plaintext_key in double-qoute like (e.g.,"MySecretKey123")>"
+    - PORT = <4-digit number(e.g.,5000)>
 
 4. Run the Application:open terminal in root directory & run any one of following command.
 
