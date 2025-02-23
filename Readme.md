@@ -22,7 +22,7 @@ Backend API for ShoppyGlobe application built using Node.js, Express, and MongoD
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/
+   git clone https://github.com/sourabh-969/Shoppy_Globe-Backend.git
 
    * You can also download this as a Zipfile by clicking on "<>Code" button/options. 
 
